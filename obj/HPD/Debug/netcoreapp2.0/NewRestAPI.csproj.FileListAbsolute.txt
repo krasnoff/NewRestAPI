@@ -1,0 +1,12 @@
+C:\projects\NewRestAPI\bin\HPD\Debug\netcoreapp2.0\NewRestAPI.deps.json
+C:\projects\NewRestAPI\bin\HPD\Debug\netcoreapp2.0\NewRestAPI.runtimeconfig.json
+C:\projects\NewRestAPI\bin\HPD\Debug\netcoreapp2.0\NewRestAPI.runtimeconfig.dev.json
+C:\projects\NewRestAPI\bin\HPD\Debug\netcoreapp2.0\NewRestAPI.dll
+C:\projects\NewRestAPI\bin\HPD\Debug\netcoreapp2.0\NewRestAPI.pdb
+C:\projects\NewRestAPI\obj\HPD\Debug\netcoreapp2.0\NewRestAPI.csprojAssemblyReference.cache
+C:\projects\NewRestAPI\obj\HPD\Debug\netcoreapp2.0\NewRestAPI.csproj.CoreCompileInputs.cache
+C:\projects\NewRestAPI\obj\HPD\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\projects\NewRestAPI\obj\HPD\Debug\netcoreapp2.0\NewRestAPI.AssemblyInfoInputs.cache
+C:\projects\NewRestAPI\obj\HPD\Debug\netcoreapp2.0\NewRestAPI.AssemblyInfo.cs
+C:\projects\NewRestAPI\obj\HPD\Debug\netcoreapp2.0\NewRestAPI.dll
+C:\projects\NewRestAPI\obj\HPD\Debug\netcoreapp2.0\NewRestAPI.pdb
