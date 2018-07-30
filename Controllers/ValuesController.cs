@@ -15,6 +15,7 @@ namespace NewRestAPI.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
+            //string idClaim = ((ClaimsIdentity)User.Identity).Claims[2];
             return new string[] { "value1", "value2" };
         }
 

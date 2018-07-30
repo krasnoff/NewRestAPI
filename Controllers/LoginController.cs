@@ -32,8 +32,9 @@ namespace NewRestAPI.Controllers
             {
                 var claims = new[]
                 {
-                    new Claim(ClaimTypes.Name, request.Username)
+                    new Claim(ClaimTypes.Name, request.Username, "23232323")
                 };
+                //claims.AddClaim(new Claim("Id", "23232323"));
 
                 var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_configuration["SecurityKey"]));
                 var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
